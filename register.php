@@ -11,7 +11,7 @@ include_once 'inc/func.php';
    <meta name="description" content="">
    <meta name="author" content="">
    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
-   <title>Joel Adtheorent Demo</title>
+   <title>JoelMcCauley - Demo Portfolio</title>
    <link href="inc/styles.css" rel="stylesheet">
    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
         <script type="text/JavaScript" src="inc/sha512.js"></script> 
