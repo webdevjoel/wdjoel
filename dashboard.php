@@ -36,7 +36,7 @@ sec_session_start();
             <li role="presentation"><a href="./inc/logout.php">Logout</a></li>
 			</ul>
 			</nav>
-			<img src="img/logo_login.png" alt="...">>
+			<img src="img/logo_login.png" alt="...">
       </div>
       <br>
 	  
