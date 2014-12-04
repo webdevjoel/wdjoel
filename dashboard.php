@@ -44,7 +44,9 @@ sec_session_start();
         <h1>Welcome <?php echo htmlentities($_SESSION['username']); ?>!</h1>
         <p class="lead">Thanks for checking out my portfolio.</p>
         <p>I've compiled samples of some of the things I've worked with in the past. This is a small PHP/SQL login with a HTML5, Javascript and CSS based frontend. If you have any questions, please contact me. Thanks again for the opportunity. </p>
-      </div>
+		<br>
+		<p>I also created the landing page for <a href="http://mansmannlaw.com">Mansmann Law</a>.
+	  </div>
 
 	  
 	  
