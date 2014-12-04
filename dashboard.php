@@ -43,7 +43,7 @@ sec_session_start();
       <div class="jumbotron">
         <h1>Welcome <?php echo htmlentities($_SESSION['username']); ?>!</h1>
         <p class="lead">Thanks for checking out my portfolio.</p>
-        <p>I've compiled samples of some of the things I've worked with in the past. This is all over a small PHP/SQL login. If you have any questions, please contact me. Thanks again for the opportunity. </p>
+        <p>I've compiled samples of some of the things I've worked with in the past. This is a small PHP/SQL login with a HTML5, Javascript and CSS based frontend. If you have any questions, please contact me. Thanks again for the opportunity. </p>
       </div>
 
 	  
